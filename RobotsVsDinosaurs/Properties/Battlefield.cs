@@ -4,18 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RobotsVsDinosaurs
+namespace RobotsVsDinosaurs.Properties
 {
-    class Program
+    public Herd herd;
+    public Fleet fleet;
+    private bool roboTurn;
+
+    class Battlefield
     {
-        static void Main(string[] args)
-        {
-            
 
-
-
-
-        }
     }
 }
-  

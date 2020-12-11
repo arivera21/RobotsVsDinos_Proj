@@ -45,6 +45,12 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Robot.cs" />
+    <Compile Include="Properties\Dinosaur.cs" />
+    <Compile Include="Properties\Fleet.cs" />
+    <Compile Include="Properties\Herd.cs" />
+    <Compile Include="Properties\Weapon.cs" />
+    <Compile Include="Properties\Battlefield.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
